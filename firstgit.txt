@@ -8,3 +8,6 @@ tuika
 
 
 git status
+
+
+git diff
