@@ -5,3 +5,6 @@ iiiiii
 
 
 tuika
+
+
+git status
