@@ -1,13 +1,2 @@
 ‚ ‚ ‚ ‚ ‚ ‚ ‚ ‚ ‚ ‚ ‚ ‚ ‚ ‚ ‚ ‚ ‚ ‚ ‚ 
 iiiiii
-
-’Ç‰Á
-
-
-tuika
-
-
-git status
-
-
-git diff
